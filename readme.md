@@ -15,4 +15,4 @@
   <img align="center" alt="java-script" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/guuisouza/guuisouza/blob/output/github-contribution-grid-snake.svg)
