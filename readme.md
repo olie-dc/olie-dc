@@ -15,4 +15,6 @@
   <img align="center" alt="java-script" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-![Snake animation](https://github.com/olie-dc/olie-dc/blob/output/github-contribution-grid-snake.svg?raw=true) 
+## Cobrinha que Come Commits 🐍
+
+![Cobrinha dos Commits](https://raw.githubusercontent.com/Platane/snk/main/github-contribution-grid-snake.gif)
