@@ -15,6 +15,4 @@
   <img align="center" alt="java-script" heigth="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
-## Cobrinha que Come Commits 🐍
-
 ![Cobrinha dos Commits](https://raw.githubusercontent.com/Platane/snk/main/github-contribution-grid-snake.gif)
