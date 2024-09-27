@@ -16,8 +16,7 @@
 </div>
 
 <div>
-  <img src="https://github.com/olie-dc/olie-dc/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
+  ![Snake animation](https://github.com/olie-dc/olie-dc/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-<img id="snake" src="https://github.com/olie-dc/olie-dc/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" onclick="showMessage(Hello!!)">
 
